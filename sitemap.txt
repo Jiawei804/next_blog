@@ -1,8 +1,11 @@
-https://jiawei804.github.io/next_blog/2024/12/06/Hexo/
+https://jiawei804.github.io/next_blog/2024/12/06/hello-word/
+https://jiawei804.github.io/next_blog/2024/12/07/Hexo/
 https://jiawei804.github.io/next_blog/categories/index.html
 https://jiawei804.github.io/next_blog/tags/index.html
 https://jiawei804.github.io/next_blog/about/index.html
 https://jiawei804.github.io/next_blog
 https://jiawei804.github.io/next_blog/tags/Hexo/
-https://jiawei804.github.io/next_blog/tags/Next/
+https://jiawei804.github.io/next_blog/tags/Github-Pages/
+https://jiawei804.github.io/next_blog/tags/%E9%9A%8F%E7%AC%94/
+https://jiawei804.github.io/next_blog/categories/%E6%8A%80%E6%9C%AF/
 https://jiawei804.github.io/next_blog/categories/%E6%9D%82%E8%B0%88/

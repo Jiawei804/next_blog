@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jiawei804.github.io/next_blog/2024/12/06/Hexo/</loc>
+    <loc>https://jiawei804.github.io/next_blog/2024/12/06/hello-word/</loc>
+    
+    <lastmod>2024-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiawei804.github.io/next_blog/2024/12/07/Hexo/</loc>
     
     <lastmod>2024-12-07</lastmod>
     
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://jiawei804.github.io/next_blog</loc>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +57,21 @@
   
   <url>
     <loc>https://jiawei804.github.io/next_blog/tags/Hexo/</loc>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiawei804.github.io/next_blog/tags/Next/</loc>
-    <lastmod>2024-12-07</lastmod>
+    <loc>https://jiawei804.github.io/next_blog/tags/Github-Pages/</loc>
+    <lastmod>2024-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiawei804.github.io/next_blog/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -63,8 +79,15 @@
 
   
   <url>
+    <loc>https://jiawei804.github.io/next_blog/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jiawei804.github.io/next_blog/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
