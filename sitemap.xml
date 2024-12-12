@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>https://jiawei804.github.io/next_blog/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2024-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jiawei804.github.io/next_blog/tags/Hexo/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -85,17 +78,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://jiawei804.github.io/next_blog/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://jiawei804.github.io/next_blog/categories/%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://jiawei804.github.io/next_blog/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiawei804.github.io/next_blog/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://jiawei804.github.io/next_blog/categories/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
